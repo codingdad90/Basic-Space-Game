@@ -1,0 +1,17 @@
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\bin\Debug\netcoreapp3.1\Commandlinetester.exe
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\bin\Debug\netcoreapp3.1\Commandlinetester.deps.json
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\bin\Debug\netcoreapp3.1\Commandlinetester.runtimeconfig.json
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\bin\Debug\netcoreapp3.1\Commandlinetester.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\bin\Debug\netcoreapp3.1\Commandlinetester.dll
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\bin\Debug\netcoreapp3.1\Commandlinetester.pdb
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\obj\Debug\netcoreapp3.1\Commandlinetester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\obj\Debug\netcoreapp3.1\Commandlinetester.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\obj\Debug\netcoreapp3.1\Commandlinetester.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\obj\Debug\netcoreapp3.1\Commandlinetester.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\obj\Debug\netcoreapp3.1\Commandlinetester.dll
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\obj\Debug\netcoreapp3.1\Commandlinetester.pdb
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\obj\Debug\netcoreapp3.1\Commandlinetester.genruntimeconfig.cache
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\obj\Debug\netcoreapp3.1\Commandlinetester.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\bin\Debug\netcoreapp3.1\Gamerules.dll
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\bin\Debug\netcoreapp3.1\Gamerules.pdb
+C:\Users\mauri\source\repos\Basic Space Game\Commandlinetester\obj\Debug\netcoreapp3.1\Commandlinetester.csproj.CopyComplete

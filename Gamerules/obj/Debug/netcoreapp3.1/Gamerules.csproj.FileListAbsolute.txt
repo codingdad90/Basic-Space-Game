@@ -1,0 +1,10 @@
+C:\Users\mauri\source\repos\Basic Space Game\Gamerules\bin\Debug\netcoreapp3.1\Gamerules.deps.json
+C:\Users\mauri\source\repos\Basic Space Game\Gamerules\bin\Debug\netcoreapp3.1\Gamerules.dll
+C:\Users\mauri\source\repos\Basic Space Game\Gamerules\bin\Debug\netcoreapp3.1\Gamerules.pdb
+C:\Users\mauri\source\repos\Basic Space Game\Gamerules\obj\Debug\netcoreapp3.1\Gamerules.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Basic Space Game\Gamerules\obj\Debug\netcoreapp3.1\Gamerules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Basic Space Game\Gamerules\obj\Debug\netcoreapp3.1\Gamerules.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Basic Space Game\Gamerules\obj\Debug\netcoreapp3.1\Gamerules.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Basic Space Game\Gamerules\obj\Debug\netcoreapp3.1\Gamerules.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Basic Space Game\Gamerules\obj\Debug\netcoreapp3.1\Gamerules.dll
+C:\Users\mauri\source\repos\Basic Space Game\Gamerules\obj\Debug\netcoreapp3.1\Gamerules.pdb

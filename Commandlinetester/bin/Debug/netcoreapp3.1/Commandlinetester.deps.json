@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Commandlinetester/1.0.0": {
+        "dependencies": {
+          "Gamerules": "1.0.0"
+        },
+        "runtime": {
+          "Commandlinetester.dll": {}
+        }
+      },
+      "Gamerules/1.0.0": {
+        "runtime": {
+          "Gamerules.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Commandlinetester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gamerules/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
