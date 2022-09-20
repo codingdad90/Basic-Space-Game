@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Gamerules
 {
-    class Spaceships
+    public class Spaceships
     {
     }
 }

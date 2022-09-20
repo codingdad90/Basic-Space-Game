@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Gamerules
 {
-    class NPC
+    public class NPC
     {
             int NpcId { get; set; }
             string NpcName { get; set; }

@@ -64,7 +64,7 @@ namespace Commandlinetester
                     {
                         Console.WriteLine("Welcome to the Shipwright");
                     } */
-
+                    Gamerules.
                 }
 
                 string[] NPCNames = System.IO.File.ReadAllLines("C:\\Users\\mauri\\source\\repos\\Basic Space Game\\Commandlinetester\\namelist.txt");
