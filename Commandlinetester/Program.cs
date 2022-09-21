@@ -1,6 +1,7 @@
 ﻿using System;
 using Gamerules;
 
+
 namespace Commandlinetester
 {
 
@@ -23,8 +24,25 @@ namespace Commandlinetester
             else if (i == "3")
             {
                 Console.WriteLine("Welcome to the Shipwright");
+                Spaceship playerShip= ShipWright();
+                playerShip.ShipInfo();
+            }            
+            else
+            {
+                Console.WriteLine("Please try again");
+
             }
             return i;
+        }
+       static public Spaceship ShipWright()
+        {
+            Console.WriteLine("Welcome to the Shipwright, press 1 for new ship");
+            Console.WriteLine("Please enter your ship name");
+            string shipName = Console.ReadLine();
+            Spaceship Playership = new Gamerules.Spaceship(shipName);
+            return Playership;
+                
+
         }
     }
     class Program
@@ -64,7 +82,7 @@ namespace Commandlinetester
                     {
                         Console.WriteLine("Welcome to the Shipwright");
                     } */
-                    Gamerules.
+                    
                 }
 
                 string[] NPCNames = System.IO.File.ReadAllLines("C:\\Users\\mauri\\source\\repos\\Basic Space Game\\Commandlinetester\\namelist.txt");
