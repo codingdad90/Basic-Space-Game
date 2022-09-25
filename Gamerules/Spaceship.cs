@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading;
 
@@ -9,11 +11,13 @@ namespace Gamerules
     public  class Spaceship
     {
         public static int _counter = 1;
-        int SpaceshipId { get; set; }
-        string SpaceshipName { get; set; }
-        int MaxFuel { get; set; }
-        int CurrentFuel { get; set; }
-        int InventorySize { get; set; }
+        
+        public int SpaceshipId { get; set; }
+        public string SpaceshipName { get; set; }
+        public int MaxFuel { get; set; }
+        public int CurrentFuel { get; set; }
+        public int InventorySize { get; set; }
+        public static List<Item> Inventory { get; set; }
 
         public Spaceship(string name, int fuel, int inv)
         {
@@ -53,6 +57,8 @@ namespace Gamerules
             Console.WriteLine(this.InventorySize.ToString());
 
         }
+        public static List<Spaceship> ships = new List<Spaceship>();
+        
 
     }
 }
